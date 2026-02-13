@@ -28,6 +28,7 @@ Assets:
     pgzrun Burgverlies.py
     
 🤝 Collaborative Design (The "Independent" Approach)
+
 As an developer who is "independent by nature, but collaborative by design," I built this dungeon with the user’s experience in mind:
   Code Readability: 
     I’ve structured the code into distinct sections (Drawing, Logic, Setup) to make it easy for others to peer-review or extend.
